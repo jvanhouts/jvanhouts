@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![This is an image](https://github.com/jvanhouts/jvanhouts.github.io/blob/master/img/icon.webp)
 <!--
 **jvanhouts/jvanhouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
